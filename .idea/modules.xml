@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Module1/JavaBasicsQ1/JavaBasicsQ1.iml" filepath="$PROJECT_DIR$/Module1/JavaBasicsQ1/JavaBasicsQ1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module1/JavaBasicsQ2/JavaBasicsQ2.iml" filepath="$PROJECT_DIR$/Module1/JavaBasicsQ2/JavaBasicsQ2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module1/JavaBasicsQ3/JavaBasicsQ3.iml" filepath="$PROJECT_DIR$/Module1/JavaBasicsQ3/JavaBasicsQ3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module1/JavaBasicsQ4/JavaBasicsQ4.iml" filepath="$PROJECT_DIR$/Module1/JavaBasicsQ4/JavaBasicsQ4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module1/JavaBasicsQ5/JavaBasicsQ5.iml" filepath="$PROJECT_DIR$/Module1/JavaBasicsQ5/JavaBasicsQ5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module1/JavaBasicsQ6/JavaBasicsQ6.iml" filepath="$PROJECT_DIR$/Module1/JavaBasicsQ6/JavaBasicsQ6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Programs.iml" filepath="$PROJECT_DIR$/.idea/Java_Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/OperatorsQ1/OperatorsQ1.iml" filepath="$PROJECT_DIR$/Module2/OperatorsQ1/OperatorsQ1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/OperatorsQ2/OperatorsQ2.iml" filepath="$PROJECT_DIR$/Module2/OperatorsQ2/OperatorsQ2.iml" />
+    </modules>
+  </component>
+</project>
